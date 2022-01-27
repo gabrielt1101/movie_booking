@@ -1,4 +1,4 @@
-#Movie Booking
+# Movie Booking
 
 The movie booking site allows users to purchase tickets and seats from the available movies. 
 
