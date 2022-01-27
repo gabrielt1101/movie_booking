@@ -8,6 +8,6 @@ The movies availible can always be updated with new releases, meaning that this 
 
 This movie booking site also provides users with a seat selection area that displays which seats are full and available, as well as the position at where the seats are relative to the screen.    
 
-<img src="./ezgif.com-gif-maker.gif" alt="ezgif.com-gif-maker" width="500" height="600">
+<img src="./ezgif.com-gif-maker.gif" alt="ezgif.com-gif-maker" width="500" height="500">
 
 
